@@ -4,7 +4,7 @@ In this project I have tried to create a flexible version of artificial neural n
 # Files
 - main.py - this is where you modify the network parameters.
 - models.py - PyTorch implementation for the MLP and Data class.
-- helper.py - utility functions that deal with training the model and plotting the performance (makes use of GPU if available).
+- helper.py - contains various utility functions that deal with training the model and plotting the performance curves (makes use of GPU if available).
 
 # Experiment
 ### Configuration
